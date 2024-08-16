@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeyapandiv" alt="jeyapandiv" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 💬 Ask me about **React, Laravel, PHP, Javascript, MySql, Postgresql**
+- 💬 Ask me about **React, Laravel**
 
 - 📫 How to reach me **jeyapandivdckap@gmail.com**
 

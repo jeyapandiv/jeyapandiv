@@ -7,6 +7,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeyapandiv" alt="jeyapandiv" /></a> </p>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
+- 🔭 I’m currently working on [C-room](https://github.com/jeyapandiv/croom)
+
+- 🌱 I’m currently learning **Express.js**
+- 
 - 💬 Ask me about **React, Laravel**
 
 - 📫 How to reach me **jeyapandivdckap@gmail.com**

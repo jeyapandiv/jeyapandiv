@@ -23,9 +23,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-        <img src="https://www.logo.wine/logo/Python_(programming_language)" alt="laravel" width="40" height="40"/> 
-    </a> 
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"> 
         <img src="https://www.logo.wine/a/logo/Laravel/Laravel-Logo.wine.svg" alt="laravel" width="40" height="40"/> 
     </a> 

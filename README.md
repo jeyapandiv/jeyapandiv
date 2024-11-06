@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on [C-room](https://github.com/jeyapandiv/croom)
 
-- 🌱 I’m currently learning **Express.js**
+- 🌱 I’m currently learning **Python**
   
 - 💬 Ask me about **React, Laravel**
 
